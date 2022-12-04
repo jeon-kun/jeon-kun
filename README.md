@@ -39,7 +39,7 @@
         [Project-Git] 
         </a>
         <br>
-        <a href ="[https://kun0227.tistory.com/2](https://drive.google.com/file/d/1Q2UW7whK2PynQQWhhfTGvFj10rCx7vWz/view?usp=sharing)">
+        <a href ="https://kun0227.tistory.com/2](https://drive.google.com/file/d/1Q2UW7whK2PynQQWhhfTGvFj10rCx7vWz/view?usp=sharing)">
         [Project-PPT]
         </a>
       </td>
