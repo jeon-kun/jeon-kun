@@ -5,7 +5,7 @@
   <em>
     <h3>
     My Evernote
-      <a href="https://www.evernote.com/shard/s458/sh/74305be0-6682-c130-f86d-9544b7d4c3a3/">
+      <a href="https://www.evernote.com/client/web#?hm=true&">
        Evernote
       </a>
     </h3>
