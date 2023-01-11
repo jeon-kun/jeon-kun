@@ -8,6 +8,10 @@
       <a href="https://www.evernote.com/client/web#?hm=true&">
        Evernote
       </a>
+    My Blog
+      <a href="https://kun0227.tistory.com/">
+      T Stoty
+      </a>
     </h3>
   </em>
 </p>
