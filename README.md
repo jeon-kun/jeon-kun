@@ -47,6 +47,7 @@
         <a href ="https://drive.google.com/file/d/1Q2UW7whK2PynQQWhhfTGvFj10rCx7vWz/view?usp=share_link">
         [Project-PPT]
         </a>
+        </tr>  
         
      <tr>
        <h3>
@@ -55,6 +56,7 @@
         <a href="https://github.com/jeon-kun/withpet.git" title="Kosta247 - Project">
         [Project-Git] 
         </a>
+         </tr>
         
 <table>
   <tbody>
