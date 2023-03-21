@@ -63,9 +63,9 @@
 <table>
   <tbody>
     <tr>        
-      <h2>Ing...<h2>
+      <h3>Ing...<h3>
         <br>
-         <a href="HTTPS://GITHUB.COM/JEON-KUN/COOK.GITt" title="Cook - Project">
+         <a href="https://github.com/jeon-kun/cook.git" title="Cook - Project">
         [Project-Git] 
         </a>
 
