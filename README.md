@@ -66,7 +66,7 @@
 <table>
   <tbody>
     <tr>        
-      <h3>Ing...<h3>
+      <h2>Ing...<h2>
        <h3>
        Cook
        <h3>
