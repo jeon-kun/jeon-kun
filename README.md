@@ -13,6 +13,9 @@
       <a href="https://kun0227.tistory.com/">
       T Stoty
       </a>
+      <a href="https://blog.naver.com/rhkdals227/">
+      Naver
+      </a>
     </h3>
   </em>
 </p>
